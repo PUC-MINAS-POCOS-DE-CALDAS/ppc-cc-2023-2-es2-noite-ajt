@@ -27,7 +27,7 @@ Esta proposta de projeto pretende criar uma plataforma digital com sua usabilida
 | RF12 | Vinculação de cartão de Crédito/Débito ao perfil pessoal | Baixa |
 | RF13 | Pagamento por meio da aplicação | Baixa |
 | RF14 | Acesso ao recibo de pagamento | Alta |
-| RF15 | CRUD de pedidos | Alta |
+| RF15 | CRUD de Comandas | Alta |
 
 
 #### Requisitos Não Funcionais:
